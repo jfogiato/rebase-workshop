@@ -1,5 +1,9 @@
 # Rebase Workshop
 
+typing some stuff for the first commit
+typing some stuff for the SECOND commit
+typing some stuff for the third commit
+
 CONTENTS OF THIS FILE
 ---------------------
 
